@@ -4,7 +4,7 @@ import { pluginReact } from '@rsbuild/plugin-react';
 export default defineConfig({
   plugins: [pluginReact()],
   output: {
-    assetPrefix: '/music01/',
+    assetPrefix: '/music02/',
   },
   html: {
     title: 'ndzy',
