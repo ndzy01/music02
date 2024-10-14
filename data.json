@@ -1,27 +1,107 @@
 [
   {
+    "url": "https://www.ndzy01.com/music02/music/SHE/Super Star.flac",
+    "name": "Super Star",
+    "id": "8bf49313-9603-458b-9530-099ed721a3b9"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/SHE/中国话.flac",
+    "name": "中国话",
+    "id": "db460a5a-6401-405c-bfeb-2a2a466b5789"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/光良/童话.flac",
+    "name": "童话",
+    "id": "c723a07d-6a6a-41f7-b174-bc08bc773f9c"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/凤凰传奇/最炫民族风.flac",
+    "name": "最炫民族风",
+    "id": "3b987b84-db1f-4732-9a46-2d096f3e6b89"
+  },
+  {
     "url": "https://www.ndzy01.com/music02/music/华语群星/北京欢迎你.flac",
     "name": "北京欢迎你",
-    "id": "23a679b4-6ae8-4016-9e17-4d0007c8d4c6"
+    "id": "f1fd6039-cbea-4ea9-878b-f892978b53d6"
   },
   {
     "url": "https://www.ndzy01.com/music02/music/周传雄/黄昏.flac",
     "name": "黄昏",
-    "id": "e49ce77e-6cf9-4776-98f1-8456b6322b22"
+    "id": "b998db85-b0a4-4f8a-becd-290b52467c8f"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/周杰伦/七里香.flac",
+    "name": "七里香",
+    "id": "64f5e41e-f2b5-48fb-91b8-3b187b8684cd"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/周杰伦/千里之外.flac",
+    "name": "千里之外",
+    "id": "402c5428-558e-4430-a6e0-a6d49f48a33e"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/周杰伦/听妈妈的话.flac",
+    "name": "听妈妈的话",
+    "id": "684bfcaa-1a8f-4ea3-92a4-361e99229cfe"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/周杰伦/晴天.flac",
+    "name": "晴天",
+    "id": "20d587d1-e9b1-4376-bdc6-70f53b6553a6"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/周杰伦/稻香.flac",
+    "name": "稻香",
+    "id": "c17a6cf8-cb0b-4288-b02e-67ab2e74f67f"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/孙燕姿/遇见.flac",
+    "name": "遇见",
+    "id": "fd5f7295-f170-4777-9e79-a72c93866fdf"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/张韶涵/欧若拉.flac",
+    "name": "欧若拉",
+    "id": "ab124f7b-c9f6-4314-afc1-c3dc4ef3e267"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/林俊杰/江南.flac",
+    "name": "江南",
+    "id": "b8ab43a0-1dc3-40f8-8d16-7805d72a4623"
   },
   {
     "url": "https://www.ndzy01.com/music02/music/林忆莲/至少还有你.flac",
     "name": "至少还有你",
-    "id": "ce7ec1aa-5778-4b80-8379-9d1aec283896"
+    "id": "4991c080-e74a-457b-ba0a-04466e958dfc"
   },
   {
     "url": "https://www.ndzy01.com/music02/music/梁静茹/勇气.flac",
     "name": "勇气",
-    "id": "9efeba83-b661-4943-b305-283d6d9d82af"
+    "id": "7a963070-d113-485c-a0fd-cbcb8765966b"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/许嵩/有何不可.flac",
+    "name": "有何不可",
+    "id": "d8774fb5-f970-403b-adf8-b7f6526768d7"
   },
   {
     "url": "https://www.ndzy01.com/music02/music/陈奕迅/十年.flac",
     "name": "十年",
-    "id": "332511dc-796f-404c-90da-321ad51f89f2"
+    "id": "09468afd-7737-41ad-a16f-c275e91cda4f"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/陈奕迅/浮夸.flac",
+    "name": "浮夸",
+    "id": "deb9b52c-77c8-4b95-bfe3-052d580093d6"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/陈奕迅/爱情转移.flac",
+    "name": "爱情转移",
+    "id": "aa9e7fa7-3af6-4f32-a6e3-47dc6c4e4042"
+  },
+  {
+    "url": "https://www.ndzy01.com/music02/music/陶喆,蔡依林/今天你要嫁给我.flac",
+    "name": "今天你要嫁给我",
+    "id": "2c675e75-1f65-40a3-a538-c84b06dffa53"
   }
 ]
